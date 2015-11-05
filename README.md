@@ -2,7 +2,7 @@
 
 my academic cv
 
-uses [json-resume[(https://github.com/jsonresume/resume-cli/)
+uses [json-resume](https://github.com/jsonresume/resume-cli/)
 
 ## installation
 
