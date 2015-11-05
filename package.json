@@ -1,0 +1,15 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "my academic cv",
+  "main": "index.js",
+  "scripts": {
+    "serve": "resume serve --theme cvStrap",
+    "build": "resume export cv --format pdf --theme cvStrap"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "resume-cli": "^0.4.8"
+  }
+}
